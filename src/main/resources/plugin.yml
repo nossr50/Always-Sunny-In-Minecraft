@@ -1,0 +1,8 @@
+name: ${projectNameVar}
+main: com.gmail.nossr50.alwayssunnyinminecraft.AlwaysSunnyInMinecraft
+description: Keep Minecraft sunny... Always!
+version: ${project.version}
+author: ${projectAuthor}
+website: ${projectWebsite}
+load: STARTUP
+api-version: 1.13
